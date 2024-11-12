@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.company-logo{
+    font-size: 1.6em;
+    font-weight: bold;
+}
+.list-items ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+.list-items li{
+    cursor: pointer;
+}
